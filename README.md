@@ -13,8 +13,8 @@
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3178C6?style=for-the-badge&logo=javascript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 ## 🤝 Contact Me
@@ -25,7 +25,7 @@
 
 ---
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=weyeahh&theme=react)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=weyeahh&theme=react)
 <p>
     <img src="https://github-readme-stats-three-sage-17.vercel.app/api?username=weyeahh&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats" style="height: 200px;" align="center"/>
     <img src="https://github-readme-stats-three-sage-17.vercel.app/api/top-langs/?username=weyeahh&layout=donut" style="height: 200px;" align="center"/>
