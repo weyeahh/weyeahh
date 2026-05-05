@@ -1,4 +1,4 @@
-<h1 align="center"> Hi There, I'm weyeahh! 👋 </h1>
+<h1 align="center"> Hi There, I'm weyeah! 👋 </h1>
 
 ### ✨ About Me:
 
